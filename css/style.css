@@ -1,2 +1,8 @@
-div p {
-  color: blue; }
+:root {
+  --green: lightseagreen; }
+
+.pagetitle {
+  color: var(--green); }
+
+.text-center {
+  text-align: center; }
