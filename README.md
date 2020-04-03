@@ -1,2 +1,2 @@
-# sass-to-css
-Simple sass to css npm task runner
+# scss-to-css
+Simple scss to css npm task runner
